@@ -5,8 +5,8 @@ int name;
 clescr();
     printf("Enter your Name: ");
     scanf("%d\n");
-    printf("Hello Janhvi Sapkal");
-    printf("Welcome to Robotics and automation department");
+    printf("Hello ARYAN BHOMBE");
+    printf("Welcome to Robotics and automation IN B BUILDING");
     getch();
     
 }
